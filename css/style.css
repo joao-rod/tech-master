@@ -11,7 +11,7 @@ section.parallax {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 105vh;
+  height: 100vh;
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -20,7 +20,7 @@ section.parallax {
 
 section.parallax:after {
   content: "";
-  height: 105%;
+  height: 100%;
   width: 100%;
   position: absolute;
   z-index: 7;
